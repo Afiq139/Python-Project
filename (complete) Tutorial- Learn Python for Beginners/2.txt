@@ -1,0 +1,116 @@
+Array + List
+----------------------------
+
+
+>>>grade1=97
+>>>grade2=98
+>>>grade3=99
+>>>print(Grade2)
+98
+
+>>>Grades=[97, 98, 76, 54, 99, 85, 67]
+>>>print(Grades)
+[97, 98, 76, 54, 99, 85, 67]
+
+>>>print(Grades[2])
+76
+
+>>>print(Grades[1])
+98
+
+>>> x=Grades[0]+Grades[6]
+>>> print(x)
+164
+
+>>>print(Grades)
+[97, 98, 76, 54, 99, 85, 67]
+
+>>>Grades[3]
+54
+
+>>>picture=[[1,2,3,4] , [5,6,7,8] , [9,10,11,12]]
+>>>print(picture)
+[[1,2,3,4] , [5,6,7,8] , [9,10,11,12]]
+
+>>>print(picture[1])
+[5,6,7,8]
+
+>>>print(picture[0])
+[1,2,3,4]
+
+>>>print(picture[2])
+[9,10,11,12]
+
+>>>print(picture[1][2])
+7
+
+>>>fruits=['apple' , 'banana', 'orange' , 'grape']
+>>>print(fruits)
+['apple', 'banana' , 'orange', 'grape']
+
+>>>print(fruits[1])
+banana
+
+>>>grades=[97,34,23,99,'banana',100]
+>>>print(grades[0])
+97
+
+>>>print(grades[4])
+banana
+
+>>> x=97
+>>> y=34
+>>> z=23
+>>> a=99
+>>> b=100
+>>> c=101
+>>> grades=[x,y,z,a,b,c]
+>>> print(grades)
+[97, 34, 23, 99, 100, 101]
+
+>>> grades=['x', 'y' , 'z' ,'a' , 'b' , 'c']
+>>> print(grades)
+['x' , 'y', 'z', 'a', 'b', 'c']
+
+>>>fruits=['apple','banana', 'orange', 'grape']
+>>>print(fruits[1])
+banana
+
+>>>print(fruits[1][2])
+n
+
+>>>grades[2]=55
+>>>print(grades)
+['x', 'y', 55, 'a', 'b', 'c']
+
+>>>Grades=[97, 98, 76, 54, 99, 85, 67]
+>>>Grades[1]=25
+>>>print(Grades)
+[97, 25, 76, 54, 99, 85, 67]
+
+>>> x=[]
+>>> x.append(97)
+>>> print(x)
+[97]
+
+>>> x.append(85)
+>>> print(x)
+[97, 85]
+
+>>> print(x[1])
+85
+
+>>>
+
+
+
+
+
+
+
+
+
+
+
+
+
