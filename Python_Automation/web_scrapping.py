@@ -79,3 +79,5 @@ server.sendmail(FROM, TO, msg.as_string())
 
 print('Email Sent...')
 
+server.quit()
+
