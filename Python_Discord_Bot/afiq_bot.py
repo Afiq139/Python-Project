@@ -1,5 +1,3 @@
-40.17
-
 import os
 import discord
 import requests
