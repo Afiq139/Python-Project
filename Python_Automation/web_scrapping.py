@@ -66,7 +66,7 @@ msg['To'] = TO
 msg.attach(MIMEText(content, 'html'))
 #fp.close()
 
-print('Initiating Server..')
+print('Initiating Server...')
 
 server = smtplib.SMTP(SERVER, PORT)
 #server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
