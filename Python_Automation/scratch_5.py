@@ -29,3 +29,11 @@ for val in soup.findAll("script"):
         result = str(val)
 
 #47.05
+
+result_mp4 = re.search("(?P<url>https?://[^\s]+)(mp4)", result).group("url")
+
+mp4_url = result_mp4.split('"')[0]
+
+file_name = mp4_url.split("/")[len(mp4_url.split("/"))-1].split('?')[0]
+
+print("Storing video in ......" + file_name)
