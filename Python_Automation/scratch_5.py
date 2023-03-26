@@ -27,3 +27,5 @@ soup = BeautifulSoup(r.content, features="lxml")
 for val in soup.findAll("script"):
     if(re.search("talkPage.init", str(val))) is not None:
         result = str(val)
+
+#47.05
