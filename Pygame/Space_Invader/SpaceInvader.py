@@ -13,7 +13,7 @@ pygame.display.set_icon(icon)
 
 # Player
 
-playerImg = pygame.image.load('./Pygame/Space_Invader/player.png')
+playerImg = pygame.image.load('./Pygame/Space_Invader/player1.png')
 playerX = 370
 playerY = 480
 
