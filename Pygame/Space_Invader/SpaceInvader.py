@@ -21,3 +21,5 @@ while running:
     # RGB - Red, Green, Blue
     screen.fill((0, 0, 0))
     pygame.display.update()
+
+    
