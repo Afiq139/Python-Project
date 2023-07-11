@@ -3,7 +3,7 @@ import pygame
 # Initialize the pygame
 pygame.init()
 
-# Create the screen
+# Create the screen (width, height)
 screen = pygame.display.set_mode((800,600))
 
 # caption and Icon
@@ -22,4 +22,4 @@ while running:
     screen.fill((0, 0, 0))
     pygame.display.update()
 
-    
+
