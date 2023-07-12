@@ -31,7 +31,7 @@ while running:
     # movement in pixel
     playerX += 0.1
 
-    for event in pygame.event.get()
+    for event in pygame.event.get():
         if event.type == pygame.QUIT:
             running = False
     
