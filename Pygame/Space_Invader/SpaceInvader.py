@@ -52,9 +52,9 @@ while running:
 
     #boundary of player
     if playerX <=50:
-        playerX = 50
+        playerX = 60
     elif playerX >= 700:
-        playerX = 700
+        playerX = 690
     
     player(playerX, playerY)
     pygame.display.update()
