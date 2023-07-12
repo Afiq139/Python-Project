@@ -13,7 +13,7 @@ pygame.display.set_icon(icon)
 
 # Player
 
-playerImg = pygame.image.load('./Pygame/Space_Invader/player1.png')
+playerImg = pygame.image.load('./Pygame/Space_Invader/player2.png')
 playerX = 370
 playerY = 480
 
@@ -29,7 +29,7 @@ while running:
     screen.fill((0, 0, 0))
 
     # movement in pixel
-    playerX += 0.1
+    playerY += 0.1
 
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
