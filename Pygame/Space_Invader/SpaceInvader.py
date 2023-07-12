@@ -18,6 +18,7 @@ playerX = 370
 playerY = 480
 
 def player():
+    #b blit = to draw on screen -> (image, (coordinates))
     screen.blit(playerImg, (playerX, playerY))
 
 # Game loop
