@@ -49,6 +49,12 @@ while running:
     
     # example: 5 = 5 + 0.1 or -0.1
     playerX += playerX_change
+
+    #boundary of player
+    if playerX <=50:
+        playerX = 50
+    elif playerX >= 700:
+        playerX = 700
     
     player(playerX, playerY)
     pygame.display.update()
