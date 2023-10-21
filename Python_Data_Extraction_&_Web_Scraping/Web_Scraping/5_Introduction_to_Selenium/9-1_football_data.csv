@@ -1,0 +1,199 @@
+date,home_team,score,away_team
+14-08-2023,Cadiz,1 - 0,Alaves
+21-08-2023,Alaves,4 - 3,Sevilla
+28-08-2023,Getafe,1 - 0,Alaves
+02-09-2023,Alaves,1 - 0,Valencia
+15-09-2023,Vallecano,2 - 0,Alaves
+22-09-2023,Alaves,0 - 2,Ath Bilbao
+28-09-2023,Celta,1 - 1,Alaves
+01-10-2023,Alaves,0 - 2,Osasuna
+08-10-2023,Alaves,1 - 1,Betis
+22-10-2023,Villarreal,? - ?,Alaves
+11-08-2023,Almeria,0 - 2,Vallecano
+19-08-2023,Almeria,1 - 3,Real Madrid
+26-08-2023,Cadiz,1 - 1,Almeria
+01-09-2023,Almeria,2 - 3,Celta
+17-09-2023,Villarreal,2 - 1,Almeria
+23-09-2023,Almeria,2 - 2,Valencia
+26-09-2023,Sevilla,5 - 1,Almeria
+01-10-2023,Almeria,3 - 3,Granada
+06-10-2023,Ath Bilbao,3 - 0,Almeria
+22-10-2023,Girona,? - ?,Almeria
+12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+19-08-2023,Osasuna,0 - 2,Ath Bilbao
+27-08-2023,Ath Bilbao,4 - 2,Betis
+03-09-2023,Mallorca,0 - 0,Ath Bilbao
+16-09-2023,Ath Bilbao,3 - 0,Cadiz
+22-09-2023,Alaves,0 - 2,Ath Bilbao
+27-09-2023,Ath Bilbao,2 - 2,Getafe
+30-09-2023,Sociedad,3 - 0,Ath Bilbao
+06-10-2023,Ath Bilbao,3 - 0,Almeria
+22-10-2023,Barcelona,? - ?,Ath Bilbao
+14-08-2023,Ath Madrid,3 - 1,Granada
+20-08-2023,Betis,0 - 0,Ath Madrid
+28-08-2023,Vallecano,0 - 7,Ath Madrid
+16-09-2023,Valencia,3 - 0,Ath Madrid
+24-09-2023,Ath Madrid,3 - 1,Real Madrid
+28-09-2023,Osasuna,0 - 2,Ath Madrid
+01-10-2023,Ath Madrid,3 - 2,Cadiz
+08-10-2023,Ath Madrid,2 - 1,Sociedad
+21-10-2023,Celta,? - ?,Ath Madrid
+13-08-2023,Getafe,0 - 0,Barcelona
+20-08-2023,Barcelona,2 - 0,Cadiz
+27-08-2023,Villarreal,3 - 4,Barcelona
+03-09-2023,Osasuna,1 - 2,Barcelona
+16-09-2023,Barcelona,5 - 0,Betis
+23-09-2023,Barcelona,3 - 2,Celta
+26-09-2023,Mallorca,2 - 2,Barcelona
+29-09-2023,Barcelona,1 - 0,Sevilla
+08-10-2023,Granada,2 - 2,Barcelona
+22-10-2023,Barcelona,? - ?,Ath Bilbao
+13-08-2023,Villarreal,1 - 2,Betis
+20-08-2023,Betis,0 - 0,Ath Madrid
+27-08-2023,Ath Bilbao,4 - 2,Betis
+02-09-2023,Betis,1 - 0,Vallecano
+16-09-2023,Barcelona,5 - 0,Betis
+24-09-2023,Betis,1 - 1,Cadiz
+28-09-2023,Granada,1 - 1,Betis
+01-10-2023,Betis,3 - 0,Valencia
+08-10-2023,Alaves,1 - 1,Betis
+21-10-2023,Getafe,? - ?,Betis
+14-08-2023,Cadiz,1 - 0,Alaves
+20-08-2023,Barcelona,2 - 0,Cadiz
+26-08-2023,Cadiz,1 - 1,Almeria
+01-09-2023,Cadiz,3 - 1,Villarreal
+16-09-2023,Ath Bilbao,3 - 0,Cadiz
+24-09-2023,Betis,1 - 1,Cadiz
+27-09-2023,Cadiz,0 - 0,Vallecano
+01-10-2023,Ath Madrid,3 - 2,Cadiz
+07-10-2023,Cadiz,0 - 1,Girona
+23-10-2023,Valencia,? - ?,Cadiz
+13-08-2023,Celta,0 - 2,Osasuna
+19-08-2023,Sociedad,1 - 1,Celta
+25-08-2023,Celta,0 - 1,Real Madrid
+01-09-2023,Almeria,2 - 3,Celta
+16-09-2023,Celta,0 - 1,Mallorca
+23-09-2023,Barcelona,3 - 2,Celta
+28-09-2023,Celta,1 - 1,Alaves
+02-10-2023,Las Palmas,2 - 1,Celta
+08-10-2023,Celta,2 - 2,Getafe
+21-10-2023,Celta,? - ?,Ath Madrid
+13-08-2023,Getafe,0 - 0,Barcelona
+20-08-2023,Girona,3 - 0,Getafe
+28-08-2023,Getafe,1 - 0,Alaves
+02-09-2023,Real Madrid,2 - 1,Getafe
+17-09-2023,Getafe,3 - 2,Osasuna
+24-09-2023,Sociedad,4 - 3,Getafe
+27-09-2023,Ath Bilbao,2 - 2,Getafe
+30-09-2023,Getafe,0 - 0,Villarreal
+08-10-2023,Celta,2 - 2,Getafe
+21-10-2023,Getafe,? - ?,Betis
+12-08-2023,Sociedad,1 - 1,Girona
+20-08-2023,Girona,3 - 0,Getafe
+26-08-2023,Sevilla,1 - 2,Girona
+03-09-2023,Girona,1 - 0,Las Palmas
+18-09-2023,Granada,2 - 4,Girona
+23-09-2023,Girona,5 - 3,Mallorca
+27-09-2023,Villarreal,1 - 2,Girona
+30-09-2023,Girona,0 - 3,Real Madrid
+07-10-2023,Cadiz,0 - 1,Girona
+22-10-2023,Girona,? - ?,Almeria
+14-08-2023,Ath Madrid,3 - 1,Granada
+21-08-2023,Granada,0 - 2,Vallecano
+26-08-2023,Granada,3 - 2,Mallorca
+02-09-2023,Sociedad,5 - 3,Granada
+18-09-2023,Granada,2 - 4,Girona
+24-09-2023,Las Palmas,1 - 0,Granada
+28-09-2023,Granada,1 - 1,Betis
+01-10-2023,Almeria,3 - 3,Granada
+08-10-2023,Granada,2 - 2,Barcelona
+20-10-2023,Osasuna,2 - 0,Granada
+12-08-2023,Las Palmas,1 - 1,Mallorca
+18-08-2023,Valencia,1 - 0,Las Palmas
+25-08-2023,Las Palmas,0 - 0,Sociedad
+03-09-2023,Girona,1 - 0,Las Palmas
+17-09-2023,Sevilla,1 - 0,Las Palmas
+24-09-2023,Las Palmas,1 - 0,Granada
+27-09-2023,Real Madrid,2 - 0,Las Palmas
+02-10-2023,Las Palmas,2 - 1,Celta
+08-10-2023,Villarreal,1 - 2,Las Palmas
+22-10-2023,Las Palmas,? - ?,Vallecano
+12-08-2023,Las Palmas,1 - 1,Mallorca
+18-08-2023,Mallorca,0 - 1,Villarreal
+26-08-2023,Granada,3 - 2,Mallorca
+03-09-2023,Mallorca,0 - 0,Ath Bilbao
+16-09-2023,Celta,0 - 1,Mallorca
+23-09-2023,Girona,5 - 3,Mallorca
+26-09-2023,Mallorca,2 - 2,Barcelona
+30-09-2023,Vallecano,2 - 2,Mallorca
+07-10-2023,Mallorca,1 - 1,Valencia
+21-10-2023,Sociedad,? - ?,Mallorca
+13-08-2023,Celta,0 - 2,Osasuna
+19-08-2023,Osasuna,0 - 2,Ath Bilbao
+27-08-2023,Valencia,1 - 2,Osasuna
+03-09-2023,Osasuna,1 - 2,Barcelona
+17-09-2023,Getafe,3 - 2,Osasuna
+23-09-2023,Osasuna,0 - 0,Sevilla
+28-09-2023,Osasuna,0 - 2,Ath Madrid
+01-10-2023,Alaves,0 - 2,Osasuna
+07-10-2023,Real Madrid,4 - 0,Osasuna
+20-10-2023,Osasuna,2 - 0,Granada
+12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+19-08-2023,Almeria,1 - 3,Real Madrid
+25-08-2023,Celta,0 - 1,Real Madrid
+02-09-2023,Real Madrid,2 - 1,Getafe
+17-09-2023,Real Madrid,2 - 1,Sociedad
+24-09-2023,Ath Madrid,3 - 1,Real Madrid
+27-09-2023,Real Madrid,2 - 0,Las Palmas
+30-09-2023,Girona,0 - 3,Real Madrid
+07-10-2023,Real Madrid,4 - 0,Osasuna
+21-10-2023,Sevilla,? - ?,Real Madrid
+11-08-2023,Sevilla,1 - 2,Valencia
+21-08-2023,Alaves,4 - 3,Sevilla
+26-08-2023,Sevilla,1 - 2,Girona
+17-09-2023,Sevilla,1 - 0,Las Palmas
+23-09-2023,Osasuna,0 - 0,Sevilla
+26-09-2023,Sevilla,5 - 1,Almeria
+29-09-2023,Barcelona,1 - 0,Sevilla
+07-10-2023,Sevilla,2 - 2,Vallecano
+21-10-2023,Sevilla,? - ?,Real Madrid
+12-08-2023,Sociedad,1 - 1,Girona
+19-08-2023,Sociedad,1 - 1,Celta
+25-08-2023,Las Palmas,0 - 0,Sociedad
+02-09-2023,Sociedad,5 - 3,Granada
+17-09-2023,Real Madrid,2 - 1,Sociedad
+24-09-2023,Sociedad,4 - 3,Getafe
+27-09-2023,Valencia,0 - 1,Sociedad
+30-09-2023,Sociedad,3 - 0,Ath Bilbao
+08-10-2023,Ath Madrid,2 - 1,Sociedad
+21-10-2023,Sociedad,? - ?,Mallorca
+11-08-2023,Sevilla,1 - 2,Valencia
+18-08-2023,Valencia,1 - 0,Las Palmas
+27-08-2023,Valencia,1 - 2,Osasuna
+02-09-2023,Alaves,1 - 0,Valencia
+16-09-2023,Valencia,3 - 0,Ath Madrid
+23-09-2023,Almeria,2 - 2,Valencia
+27-09-2023,Valencia,0 - 1,Sociedad
+01-10-2023,Betis,3 - 0,Valencia
+07-10-2023,Mallorca,1 - 1,Valencia
+23-10-2023,Valencia,? - ?,Cadiz
+11-08-2023,Almeria,0 - 2,Vallecano
+21-08-2023,Granada,0 - 2,Vallecano
+28-08-2023,Vallecano,0 - 7,Ath Madrid
+02-09-2023,Betis,1 - 0,Vallecano
+15-09-2023,Vallecano,2 - 0,Alaves
+24-09-2023,Vallecano,1 - 1,Villarreal
+27-09-2023,Cadiz,0 - 0,Vallecano
+30-09-2023,Vallecano,2 - 2,Mallorca
+07-10-2023,Sevilla,2 - 2,Vallecano
+22-10-2023,Las Palmas,? - ?,Vallecano
+13-08-2023,Villarreal,1 - 2,Betis
+18-08-2023,Mallorca,0 - 1,Villarreal
+27-08-2023,Villarreal,3 - 4,Barcelona
+01-09-2023,Cadiz,3 - 1,Villarreal
+17-09-2023,Villarreal,2 - 1,Almeria
+24-09-2023,Vallecano,1 - 1,Villarreal
+27-09-2023,Villarreal,1 - 2,Girona
+30-09-2023,Getafe,0 - 0,Villarreal
+08-10-2023,Villarreal,1 - 2,Las Palmas
+22-10-2023,Villarreal,? - ?,Alaves
