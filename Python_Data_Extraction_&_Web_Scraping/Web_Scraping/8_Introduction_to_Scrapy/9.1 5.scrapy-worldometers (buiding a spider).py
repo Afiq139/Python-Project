@@ -16,3 +16,4 @@ class WorldometersSpider(scrapy.Spider):
             'titles': title,
             'countries': countries,
         }
+        
